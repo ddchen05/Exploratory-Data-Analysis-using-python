@@ -35,7 +35,7 @@ The country with the highest Covid-19 death rate is Yemen and UK is the second.
 
 ![4](https://user-images.githubusercontent.com/50339450/167235469-eaaf8d8a-bd5d-447d-8901-7eea2c6a5d67.png)
 
-5. Pie Chart Representation of stats of countries of confirmed cases
+5.Pie Chart Representation of stats of countries of confirmed cases
 
 ![5](https://user-images.githubusercontent.com/50339450/167235497-f3407f67-929b-4267-986b-e818205c0551.png)
 
@@ -48,7 +48,6 @@ The country with the highest Covid-19 death rate is Yemen and UK is the second.
 China and the United States are the top 2 countries with most total vaccinations.
 
 ![7](https://user-images.githubusercontent.com/50339450/167235754-2fe2ec93-4b19-47b5-92c9-be729c34739e.png)
-
 
 8.Which Country has most people fully vaccinated?
 
