@@ -43,6 +43,7 @@ The country with the highest Covid-19 death rate is Yemen and UK is the second.
 6.Total number of vaccinations by country
 
 ![6](https://user-images.githubusercontent.com/50339450/167235723-60071314-fa96-4950-80a3-66f2a7b2ce04.png)
+
 7.Which Country has most total vaccinations?
 
 China and the United States are the top 2 countries with most total vaccinations.
