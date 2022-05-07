@@ -12,13 +12,13 @@ https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress?select=c
 Below I've shown some analysis results. Detail of codes and more analysis can be found in the notebooks.
 
 ## Interesting  Questions
-1. Which Country has maximum total cases?
+1.Which Country has maximum total cases?
 
 It's clear that the United States has the most total cases and Brazil is the second.
 
 ![1](https://user-images.githubusercontent.com/50339450/167235139-b60fac2c-6f15-48a0-97b2-0c7c59ba5fa0.png)
 
-2. Which Country has maximum total deaths?
+2.Which Country has maximum total deaths?
 
 The United States has the most total deaths and Brazil is the second.
 
@@ -43,7 +43,6 @@ The country with the highest Covid-19 death rate is Yemen and UK is the second.
 6.Total number of vaccinations by country
 
 ![6](https://user-images.githubusercontent.com/50339450/167235723-60071314-fa96-4950-80a3-66f2a7b2ce04.png)
-
 7.Which Country has most total vaccinations?
 
 China and the United States are the top 2 countries with most total vaccinations.
