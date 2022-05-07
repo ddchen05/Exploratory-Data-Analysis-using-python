@@ -7,8 +7,9 @@ Dataset1:COVID-19 dataset
 https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=country_wise_latest.csv
 
 Dataset2:COVID-19 World Vaccination Progress
+https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress?select=country_vaccinations.csv
 
-Below I've shown some analysis results. Detail of codes and more analysis can be found in the notebook.
+Below I've shown some analysis results. Detail of codes and more analysis can be found in the notebooks.
 
 ## Interesting  Questions
 1. Which Country has maximum total cases?
